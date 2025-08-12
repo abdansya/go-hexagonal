@@ -1,4 +1,4 @@
-# Project Go Gexagonal Boilerplate
+# Project Go Hexagonal Boilerplate
 
 This is the backend service for the API project, built with Go following a hexagonal architecture.
 
